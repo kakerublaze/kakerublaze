@@ -22,42 +22,32 @@ I'm a passionate Flutter developer working with CORE EHS. I've had the opportuni
 ![GetX](https://img.shields.io/badge/GetX-20232A?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakerublaze&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
-
----
-
-## 💻 Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakerublaze&layout=compact&theme=radical&langs_count=5&hide=html,css&exclude_repo=your-private-repo)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taher-dodia-382b30257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kakerublaze)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taherdodia.work@gmail.com)
 
 ---
 
-## 🎧 Music & Coffee, My Daily Fuel
-![Music](https://img.shields.io/badge/Now%20Listening%20to-Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+## 🎧 Currently Listening
+
+- [Ordinary Person (Leo Movie) - YouTube](https://youtu.be/q6e_b0NERCA?si=NbMigDYPlO_EOCvA)
+- [Ordinary Person (Leo Movie) - Spotify](https://open.spotify.com/track/6FahmzZYKH0zb2f9hrVsvw?si=2ad8e7e53a7a4bec)
 
 ---
 
