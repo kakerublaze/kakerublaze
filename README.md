@@ -35,6 +35,11 @@ I'm a passionate Flutter developer working with CORE EHS. I've had the opportuni
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakerublaze&layout=compact&theme=radical&langs_count=5&hide=html,css&exclude_repo=your-private-repo)
 
 ---
+## 🔥 GitHub Streak
+
+![Taher's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakerublaze&show_icons=true&theme=radical")
+
+---
 
 ## 📫 Let's Connect
 
